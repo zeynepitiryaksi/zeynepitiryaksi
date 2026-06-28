@@ -1,5 +1,4 @@
-## Hi there 👋
-
+##  👋 "Hi, I'm Zeynep Itır. I'm a sophomore Computer Engineering student. I love turning the diverse knowledge I gain into practical, real-world projects to constantly improve myself. I'm a fast learner who adapts quickly to new technologies and thrives in a team environment."
 <!--
 **zeynepitiryaksi/zeynepitiryaksi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
